@@ -9,5 +9,5 @@ I love to get my hands dirty and build things, even if i don't know nothing abou
 - ⚡ Fun fact: (most of) my projects have a ReadMe explaining how did I done it and the process of the making for other people to read and learn.
 
 <div align=center>
-  <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TomasPereira-Dev&theme=dark" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
