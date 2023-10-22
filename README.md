@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Tomás here :)
+I'm a frontend dev, with a passion for helping people with their coding questions.
+I love to get my hands dirty and build things, even if i don't know nothing about what I'm doing!
 
 <!--
 **TomasPereira-Dev/TomasPereira-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
