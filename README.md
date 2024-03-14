@@ -4,7 +4,7 @@ I love to get my hands dirty and build things, even if i don't know nothing abou
 
 ### About me
 
-- 🌱 I’m currently learning Tailwind, unit testing with Vitest and how to have good taste with web design.
+- 🌱 I’m currently learning unit testing with Vitest and how to have good taste with web design.
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=TomasPereira-Dev&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
