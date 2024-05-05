@@ -1,11 +1,6 @@
-<h1 align="center">Hi, Tomás here :)</h1>
-I'm a frontend dev, with a passion for helping people with their coding questions.
-I love to get my hands dirty and build things, even if i don't know nothing about what I'm doing!
 
-### About me
+![tomaspereira-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomaspereira-dev&theme=prussian&hide_border=true)  
 
-- 🌱 I’m currently learning unit testing with Vitest and how to have good taste with web design.
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TomasPereira-Dev&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![tomaspereira-dev's Stats](https://github-readme-stats.vercel.app/api?username=tomaspereira-dev&theme=prussian&show_icons=true&hide_border=true&count_private=true)    
 
-
+![tomaspereira-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspereira-dev&theme=prussian&show_icons=true&hide_border=true&layout=compact)
