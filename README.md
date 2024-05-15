@@ -8,5 +8,4 @@
 :mega: You can see my weekly progress and achievements every friday at [linkedIn](https://www.linkedin.com/in/tomas-pereira-dev/).  
 :cd: What am I listening lately? Dynamo by Soda Stereo, a shoegaze cult classic.  
 
-![tomaspereira-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomaspereira-dev&theme=prussian&hide_border=true)  
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=TomasPereira-dev&theme=slateorange&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
