@@ -1,3 +1,6 @@
+
+![1705468941082](https://github.com/TomasPereira-Dev/TomasPereira-Dev/assets/81960258/1c952285-6cab-4902-a0c1-973f2c3d9c24)
+
 # Frontend Developer By Day, Music Nerd By Night.
 
 :zap: I work mainly with React, JavaScript and Tailwind.  
